@@ -16,7 +16,7 @@ let agentId = "agt_2Ln7eSse";
 let auth = {
   type: "key",
   clientKey:
-    "Z29vZ2xlLW9hdXRoMnwxMDY2MDg2Mjg1ODMyNzI0ODg1NjY6VVhuNVJCVXFtMlkxQXppTnZtSGk4",
+    "paste key here",
 };
 
 // HTML Variables declaration
